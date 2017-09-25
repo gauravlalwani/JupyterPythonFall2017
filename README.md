@@ -1,4 +1,4 @@
-# Note for Python Class (PSY 394U), Fall 2017
+# Notes for Python Class (PSY 394U), Fall 2017
 
 Working repository for Jupyter notebooks for Python Class, Fall 2017.
 
