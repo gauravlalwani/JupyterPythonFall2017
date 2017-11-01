@@ -16,3 +16,4 @@ Working repository for Jupyter notebooks for Python Class, Fall 2017.
 - [String manipulation](https://github.com/sathayas/JupyterPythonFall2017/blob/master/String.ipynb) (10/10)
 - [Reading and writing files](https://github.com/sathayas/JupyterPythonFall2017/blob/master/File.ipynb) (10/12 - 10/19)
 - [Git and GitHub](https://github.com/sathayas/JupyterPythonFall2017/blob/master/Git.ipynb) (10/31)
+- [NumPy and arrays](https://github.com/sathayas/JupyterPythonFall2017/blob/master/NumPy.ipynb) (11/2 - 11/7)
