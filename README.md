@@ -19,3 +19,4 @@ Working repository for Jupyter notebooks for Python Class, Fall 2017.
 - [NumPy and arrays](https://github.com/sathayas/JupyterPythonFall2017/blob/master/NumPy.ipynb) (11/2 - 11/7)
 - [Data visualization](https://github.com/sathayas/JupyterPythonFall2017/blob/master/Plot.ipynb) (11/9 - 11/14)
 - [Pandas and dataframes](https://github.com/sathayas/JupyterPythonFall2017/blob/master/Pandas.ipynb) (11/16 - 11/21)
+- [GUIs with Tkinter](https://github.com/sathayas/JupyterPythonFall2017/blob/master/Tkinter.ipynb) (11/28 - 11/30)
